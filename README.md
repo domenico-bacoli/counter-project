@@ -6,11 +6,14 @@ This is a simple counter where you can increment, decrement and reset the value.
 
 # 💻 Languages
 
-
-
 - HTML 5
 - CSS3
 - JAVASCRIPT ES6
+
+
+
+# 🕹 Try it!
+https://domenico-bacoli.github.io/counter-project/
 
 
 
