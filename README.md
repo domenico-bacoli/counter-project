@@ -13,7 +13,7 @@ This is a simple counter where you can increment, decrement and reset the value.
 
 
 # 🕹 Try it!
-https://domenico-bacoli.github.io/counter-project/
+You can try it at this link: [counter-project](https://domenico-bacoli-counter-project.netlify.app)
 
 
 
